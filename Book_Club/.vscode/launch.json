@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CSEN268-F24",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "CSEN268-F24 (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "CSEN268-F24 (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "CSEN268-F24-Lecture6Start (Flutter)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Flutter (lib/pages/main_page/main_page.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/pages/main_page/main_page.dart"
+    }
+  ]
+}
